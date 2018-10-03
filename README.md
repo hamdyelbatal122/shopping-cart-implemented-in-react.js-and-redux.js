@@ -2,7 +2,7 @@
 
 example of shopping cart implemented in react.js and redux.js
 
-for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
+for demo [click here](https://github.com/hamdyelbatal/shopping-cart-implemented-in-react.js-redux.js-)
 
 ## getting started
 
@@ -23,5 +23,5 @@ npm start
 - add reducers and selectors unit tests
 
 * * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
+author: hamdyelbatal [@hamdyelbatal22](https://facebook.com.com/hamdyelbatal122)   
 licence: MIT
